@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hwan.dev/)](https://hwan.dev)
 
 
-[![Changhwan's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/Changhwan-Son/github-readme-stats)
+[![Changhwan's github stats](https://github-readme-stats.vercel.app/api?username=Changhwan-Son)](https://github.com/Changhwan-Son/github-readme-stats)
