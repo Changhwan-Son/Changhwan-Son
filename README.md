@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Changhwan-Son/Changhwan-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+</div>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hwan.dev/)](https://hwan.dev)
+
+
+[![Changhwan's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/Changhwan-Son/github-readme-stats)
