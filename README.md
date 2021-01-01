@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Studying Web Back-End Development
+### Studying Web Back-End Development
 
 - Java Spring Framework
 
-## Interest
+### Interest
 - Java Spring 
 - Vue.js
 - React.js
