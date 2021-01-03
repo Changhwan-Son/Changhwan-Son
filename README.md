@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 -->
 ### Studying Web Back-End Development
 
-- Java Spring Framework
+- 이름(Name) : 손창환(Changhwan Son)
 
+- 학력(Education) 
+	- 학교(University) : 광운대학교(Kwangwoon University)
+	- 전공(Major) : 컴퓨터소프트웨어(Computer Software)
+	
+- 경력(Career)
+	- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy For Youth) : 2021.01 ~ ing
+	
+	
 ### Interest
 - Java Spring 
 - Vue.js
