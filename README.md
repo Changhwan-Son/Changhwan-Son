@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Interest
 - Java Spring 
 - Vue.js
-- React.js
+
 
 <div align=center>
 
