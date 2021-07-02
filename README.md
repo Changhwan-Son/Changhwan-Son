@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy For Youth) : 2021.01 ~ ing
 	
 	
-### Interest
+### Interests
 - Java Spring 
 - Vue.js
 
