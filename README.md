@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hwan.dev/)](https://hwan.dev)
-
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sonch96">
