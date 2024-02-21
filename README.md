@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 	- 전공(Major) : 컴퓨터소프트웨어(Computer Software)
 	
 - 경력(Career)
-	- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy For Youth) : 2021.01 ~ 2020.10
+	- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy For Youth) : 2021.01 ~ 2021.10
+   	- 롯데정보통신 Software Enginner : 2021.10 ~ ing
 	
 	
 ### Interests
-- Java Spring 
-- Vue.js 
+- Java Spring
+- ASP.NET
+- MSSQL
  
  
 <div align=center>
