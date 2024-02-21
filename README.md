@@ -12,17 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
-### Studying Web Back-End Development 
 
-- 이름(Name) : 손창환(Changhwan Son)
-
-- 학력(Education) 
-	- 전공(Major) : 컴퓨터소프트웨어(Computer Software)
-	
-- 경력(Career)
-	- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy For Youth) : 2021.01 ~ 2021.10
-   	- 롯데정보통신 Software Enginner : 2021.10 ~ ing
-	
 	
 ### Interests
 - Java Spring
