@@ -14,17 +14,10 @@ Here are some ideas to get you started:
 -->
 
 	
-### Interests
-- Java Spring
-- ASP.NET
-- MSSQL
- 
  
 <div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
 </div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hwan.dev/)](https://hwan.dev)
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hwan.dev/)](https://hwan.dev)-->
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sonch96">
